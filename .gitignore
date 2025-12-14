@@ -4,3 +4,4 @@ propbank_dev.tsv
 propbank_test.tsv
 propbank_train.tsv
 role_list.txt
+.gitignore
