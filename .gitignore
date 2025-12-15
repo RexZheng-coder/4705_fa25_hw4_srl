@@ -5,3 +5,4 @@ propbank_test.tsv
 propbank_train.tsv
 role_list.txt
 .gitignore
+srl_model_fulltrain_2epoch_finetune_1e-05.pt
